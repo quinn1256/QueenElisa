@@ -2,9 +2,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wcxhna1Z3dohVcL1id4UTULhWZXBjbZZ0M28Ve3ZWQW5Wa0B3N6RTWhtGRjsENEh0Z0FFbpwd=061355409246',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `⚡ SYSTEM ONLINE ⚡
+
+Connecting... 💻🚀
+
+Welcome! Queen Elisa Bot is Alive Now !. It’s always adapting and responding to your commands in real-time. 🌐✨
+
+Command Executing: .menu 🎮
+Status: Fully operational. 🔥
+
+Ready to explore? Let’s get started! 😊 !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -19,25 +28,26 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://vidunsaniru1:Vidun%232009@cluster0.cq78i.mongodb.net/vidunsaniru1?retryWrites=true&w=majority&appName=Cluster0
+', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
   OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'public',
-  WORK_MODE: 'group',
-  TIME_ZONE: 'Asia/Colombo',
+  OWNER_NUMBER: '642904553160',
+  SUDO: '642904553160',
+  WORK_TYPE: 'private',
+  WORK_MODE: 'private',
+  TIME_ZONE: 'Pacific/Auckland',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
-  REMOVE_BG_APIKEY: '',
+  REMOVE_BG_APIKEY: 'k44bWTcB5vkpMu4ytmtnkx3L',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '👽',
   ALIVE_AS_GIF: true,
-  AUTO_VOICE: false,
+  AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
